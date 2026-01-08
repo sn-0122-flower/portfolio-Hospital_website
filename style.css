@@ -1,0 +1,115 @@
+.title{
+    font-size: large;
+    font-family: sans-serif;
+}
+
+/*separator*/
+.separator{
+    color: #072923;
+    text-align: center;/*中央揃え(横方向)*/
+    
+    height: 40px;      /*枠の高さ*/
+    line-height: 40px; /*行間の高さ*/
+    margin: 10px 0;/*上下40px、左右0*/
+}
+
+.line{
+     border-top: dotted #072923;/*下線*/
+}
+
+/*before*/
+.before-info{
+    font-family: "Yu Mincho";
+}
+
+/*白抜き文字、左寄せ、上下中央揃え*/
+.before-info h1{
+    background-color: #09665a;
+    color: #FFFFFF;
+    font-size: 24px;
+    height: 80px;
+    line-height: 80px;
+}
+
+.before-highlight{
+    color: #ffab2c;
+    font-weight: bold;
+}
+
+/*after*/
+.after-info{
+    color: #333;
+    font-family: "BIZ UDPGothic",
+    "Hiragino Kaku Gothic ProN",
+    sans-serif;
+    line-height: 1.8;
+}
+
+/**/
+.after-info h1{/*上下線、背景色みどり*/
+    background-color:#f3f8f7;
+    font-size: 28px;
+    height: 60px;/*枠の高さ*/
+    line-height: 60px;/*行間の高さ*/
+    padding:5px 20px;/*枠の中の余白 上下5px、左右20px*/
+    border-top: solid #6ba8a9;/*上の線*/
+    border-bottom: solid #6ba8a9;/*下の線*/
+
+}
+
+.after-info h2{/*左側に縦線*/
+    border-left: 6px solid #6ba8a9;
+    padding:5px 20px;/*枠の中の余白 上下5px、左右20px*/
+    margin: 20px 0;/*上下20px、左右0*/
+        
+}
+
+.after-info h3{
+    margin-bottom: 0px;/*H3の下を詰める*/
+}
+
+.after-info ul{
+    margin-top: 5px;/*ulの上を詰める*/
+}
+
+
+.after-highlight{
+    font-weight: bold;
+    color: #072923;
+}
+
+/*point*/
+.point{
+    background-color: #f3f6f8;
+    border-left: 6px solid #6b8ba9;
+    padding:5px 20px;/*枠の中の余白 上下5px、左右20px*/
+    margin: 40px 0;/*上下40px、左右0*/
+    
+    color: #333;
+    font-family: "BIZ UDPGothic",
+    "Hiragino Kaku Gothic ProN",
+    sans-serif;
+    line-height: 1.6;
+    
+}
+
+.point li {
+    margin-bottom: 12px;
+    line-height: 1.6;
+}
+
+
+/*枠作成*/
+.before-info{
+    border: 1px solid #cccccc;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+.after-info {
+    border: 1px solid #cccccc;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+
