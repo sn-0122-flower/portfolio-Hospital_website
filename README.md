@@ -23,7 +23,9 @@ HTML/CSSの学習成果として、<br>
 ## デザイン・画面構成
 Before / After を上下に配置し、改善点が一目で分かる構成にしています。
 
-（※ここにポートフォリオ画像を挿入）
+![Before画像](images/before.png)
+
+![After画像](images/after.png)
 
 ---
 
