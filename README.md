@@ -23,6 +23,11 @@ HTML/CSSの学習成果として、<br>
 ## デザイン・画面構成
 Before / After を上下に配置し、改善点が一目で分かる構成にしています。
 
+
+### ページリンク
+https://sn-0122-flower.github.io/portfolio-Hospital_website/
+
+### 画面イメージ
 ![Before画像](images/before.png)
 
 ![After画像](images/after.png)
@@ -57,7 +62,7 @@ Before / After を上下に配置し、改善点が一目で分かる構成に�
 - AIやインターネットも参考にしつつ、**自分が理解できた内容のみ**を使用しています  
 - 本ページは HTML / CSS のみで作成しています  
 
-（※学習メモ画像などをここに挿入）
+![用語集画像](images/command.png)
 
 ---
 
