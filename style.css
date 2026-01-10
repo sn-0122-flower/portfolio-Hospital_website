@@ -53,14 +53,12 @@
     padding:5px 20px;/*枠の中の余白 上下5px、左右20px*/
     border-top: solid #6ba8a9;/*上の線*/
     border-bottom: solid #6ba8a9;/*下の線*/
-
  }
 
  .after-info h2{/*左側に縦線*/
     border-left: 6px solid #6ba8a9;
     padding:5px 20px;/*枠の中の余白 上下5px、左右20px*/
     margin: 20px 0;/*上下20px、左右0*/
-        
  }
 
  .after-info h3{
